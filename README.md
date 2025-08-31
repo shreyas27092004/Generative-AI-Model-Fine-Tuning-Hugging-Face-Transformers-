@@ -1,10 +1,10 @@
 
-# Fine-Tuning Generative AI with Hugging Face 🚀
+# Fine-Tuning Generative AI with Hugging Face 
 
 This project demonstrates **fine-tuning a generative AI model** using Hugging Face Transformers.  
 The notebook walks through **data preprocessing, training, evaluation, and inference** for a text generation task.
 
-## 📂 Project Structure
+##  Project Structure
 ```
 
 .
@@ -13,14 +13,14 @@ The notebook walks through **data preprocessing, training, evaluation, and infer
 
 ````
 
-## ⚡ Features
+##  Features
 - Data preprocessing and tokenization  
 - Loading and fine-tuning pretrained Hugging Face models  
 - Evaluation metrics (loss, perplexity, etc.)  
 - Generating text with the fine-tuned model  
 - Easy to adapt for different datasets  
 
-## 🛠️ Requirements
+##  Requirements
 Make sure you have the following installed:
 - Python 3.8+
 - Jupyter Notebook / Jupyter Lab
